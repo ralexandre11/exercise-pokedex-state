@@ -1,0 +1,10 @@
+.main {
+  text-align: center;
+}
+
+.div-pokedex {
+  display: flex;
+  margin: 10px 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
